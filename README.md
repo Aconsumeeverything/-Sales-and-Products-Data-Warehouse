@@ -1,6 +1,12 @@
 # -Sales-and-Products-Data-Warehouse
 A comprehensive Sales and Products Data Warehouse built using the powerful combination of Pentaho Data Integration (PDI) and PostgreSQL DB. This project showcases an Extract, Transform, Load (ETL) process that seamlessly integrates, transforms, and loads sales and product data into a centralized data warehouse for efficient analysis and reporting.
 
+        Entity relationship diagram 
+![Full ETL Job](Screenshots/ERD.jpg)
+
+        Sales Fact Table
+![Full ETL Job](Screenshots/sales_data.jpg)
+
         ETL Staging Job
 ![ETL Staging Job](Screenshots/staging_job.jpg)
 
@@ -9,3 +15,4 @@ A comprehensive Sales and Products Data Warehouse built using the powerful combi
 
         Full ETL Job
 ![Full ETL Job](Screenshots/ful_ETL_job.jpg)
+
