@@ -5,7 +5,7 @@ A comprehensive Sales and Products Data Warehouse built using the powerful combi
 ![ETL Staging Job](Screenshots/staging_job.jpg)
 
         ETL Core Job
-    ![ETL Core Job](Screenshots/core_job.jpg)
+![ETL Core Job](Screenshots/core_job.jpg)
 
         Full ETL Job
-    ![Full ETL Job](Screenshots/ful_ETL_job.jpg)
+![Full ETL Job](Screenshots/ful_ETL_job.jpg)
