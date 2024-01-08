@@ -1,0 +1,3 @@
+- Here you will find the input csv for Products and Sales Tables .
+- the 'Fact_Sales-2.csv' only countains 50 rows to permform the DeltaLoad and make sure it'is working .
+- Good Luck
